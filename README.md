@@ -19,7 +19,7 @@ Local IP Mapper is a command-line tool written in Go that helps users discover d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamrajhans/local-ip-mapper.git
+   git clone https://github.com/Suyash-coder-12/local-ip-mapper.git
    cd local-ip-mapper
    ```
 
